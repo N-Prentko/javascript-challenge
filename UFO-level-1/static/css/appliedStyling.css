@@ -99,8 +99,7 @@
     padding: 20px;
     margin: 0;
     background: rgba(0, 0, 0, 0.342);
-    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/46/74/flying-ufo-vector-18054674.jpg");
-    /* background-image: url("../images/nasa.jpg"); */
+    background-image: url("../images/nasa.jpg");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;
